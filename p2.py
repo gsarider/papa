@@ -3,7 +3,7 @@ import time
 
 print(time.time(), time.ctime())
 
-count0 = 100
+count0 = 10
 while count0 > 0 :
 
     count0-= 1
